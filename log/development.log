@@ -1,0 +1,13 @@
+Started GET "/" for 127.0.0.1 at 2023-09-21 07:41:56 +0300
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/tcatanirlar/.asdf/installs/ruby/3.2.2/lib/ruby/gems/3.2.0/gems/railties-7.0.8/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/tcatanirlar/.asdf/installs/ruby/3.2.2/lib/ruby/gems/3.2.0/gems/railties-7.0.8/lib/rails/templates/rails/welcome/index.html.erb (Duration: 4.4ms | Allocations: 633)
+Completed 200 OK in 49ms (Views: 13.8ms | ActiveRecord: 0.0ms | Allocations: 7365)
+
+
+Started GET "/apple-app-site-association" for 127.0.0.1 at 2023-09-21 07:42:10 +0300
+  
+ActionController::RoutingError (No route matches [GET] "/apple-app-site-association"):
+  
+Started GET "/apple-app-site-association" for 127.0.0.1 at 2023-09-21 07:42:56 +0300
+Started GET "/apple-app-site-association" for 127.0.0.1 at 2023-09-21 07:42:58 +0300
